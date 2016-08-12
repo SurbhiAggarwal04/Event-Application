@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZ3+814Q3Lk2ZkFz1eAEQMwAAAAACAAAAAAAQZgAAAAEAACAAAAD1VwXufQWSLK64EHi/XqlLJ2qutLuF0gG1fC9B0F+/DwAAAAAOgAAAAAIAACAAAAB2YHnlVSEHsR0rBoPAWQmPufrUY13Zepaz+LweDPp7BhAAAAAF9x0dwLUY8St9neaFqTOwQAAAAM7X/1xC31yRY95Uf6r+5eyD7BRviTcGndFFQMt6gSNLbPzUjtmkg9b/EcTDAcgB6HZn6l5J6/WZDs6jMOYKU30=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://10.1.12.41:8011</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/CarRentedApplication.dll">
+      <publishTime>04/08/2015 19:12:30</publishTime>
+    </File>
+    <File Include="bin/CarRentedApplication.pdb">
+      <publishTime>04/08/2015 19:12:30</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>04/08/2015 19:12:32</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>03/31/2015 17:57:17</publishTime>
+    </File>
+    <File Include="TryIt_CarRentedpage.aspx">
+      <publishTime>04/08/2015 13:48:44</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/08/2015 19:12:31</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

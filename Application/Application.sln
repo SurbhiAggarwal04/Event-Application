@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{5A09AE2A-E437-4FF2-B738-786B71ED6C1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentedApplication", "..\CarRentedApplication\CarRentedApplication\CarRentedApplication.csproj", "{5047CBC1-DF30-4F08-AD91-545B614E98CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearByHotels", "..\NearByHotels\NearByHotels\NearByHotels.csproj", "{ECE73387-883C-4DDF-92A8-E1FADE12CD5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearestStore", "..\NearestStore\NearestStore\NearestStore.csproj", "{D834E1FB-A356-45CF-A443-525305DC70ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestFlight", "..\RestFlight\RestFlight\RestFlight\RestFlight.csproj", "{C4D647CC-09F2-4798-9D69-1CFA484844DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestWeatherForecast", "..\TestWeather\TestWeather\RestWeatherForecast.csproj", "{33739057-296F-4B0C-99A9-6F974AB71C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A09AE2A-E437-4FF2-B738-786B71ED6C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A09AE2A-E437-4FF2-B738-786B71ED6C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A09AE2A-E437-4FF2-B738-786B71ED6C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A09AE2A-E437-4FF2-B738-786B71ED6C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5047CBC1-DF30-4F08-AD91-545B614E98CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5047CBC1-DF30-4F08-AD91-545B614E98CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5047CBC1-DF30-4F08-AD91-545B614E98CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5047CBC1-DF30-4F08-AD91-545B614E98CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE73387-883C-4DDF-92A8-E1FADE12CD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE73387-883C-4DDF-92A8-E1FADE12CD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE73387-883C-4DDF-92A8-E1FADE12CD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE73387-883C-4DDF-92A8-E1FADE12CD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D834E1FB-A356-45CF-A443-525305DC70ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D834E1FB-A356-45CF-A443-525305DC70ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D834E1FB-A356-45CF-A443-525305DC70ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D834E1FB-A356-45CF-A443-525305DC70ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4D647CC-09F2-4798-9D69-1CFA484844DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D647CC-09F2-4798-9D69-1CFA484844DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D647CC-09F2-4798-9D69-1CFA484844DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D647CC-09F2-4798-9D69-1CFA484844DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33739057-296F-4B0C-99A9-6F974AB71C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33739057-296F-4B0C-99A9-6F974AB71C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33739057-296F-4B0C-99A9-6F974AB71C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33739057-296F-4B0C-99A9-6F974AB71C40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
